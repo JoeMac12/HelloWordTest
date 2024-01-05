@@ -11,7 +11,7 @@ namespace HelloWordTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadKey(true);
+            Console.ReadKey();
         }
     }
 }
